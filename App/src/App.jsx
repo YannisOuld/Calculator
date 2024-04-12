@@ -13,7 +13,7 @@ function App() {
         <Calculator />
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        Bienvenue sur l'application calculator !
       </p>
     </>
   )
